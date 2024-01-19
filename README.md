@@ -44,7 +44,7 @@ This guide was created for Xcode Version 15.1
 
 - Add a function `loadView()` to your `ViewController` to create a `view`. 
 
-    This is critical as that unlike in iOS this view is not created for you and `viewDidLoad` is not called if you don't have loadView()
+    This is critical as unlike iOS this view is not created for you and `viewDidLoad` is not called if you don't have loadView()
 
 <img alt="09_Change_ViewController.png" src="Image-Assets/09_Change_ViewController.png" width="800">
 
